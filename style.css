@@ -25,4 +25,61 @@
     border-width: 0px;
     cursor:pointer;
     margin: 10px;
+    font-family: fantasy;
 }
+#result{
+    height:120px
+}
+#history{
+    height: 20px;
+    text-align: right;
+    margin: 0%;
+    padding-top: 20px;
+    font-size: medium;
+    color: grey;
+}
+#output{
+    text-align: right;
+    height: 50px;
+    margin: 10px 20px;
+    font-size: large;
+
+}
+button:nth-child(4){
+   background-color: aqua  ;
+   font-size:28px;
+}
+button:nth-child(8) {
+    background-color: greenyellow;
+    font-size: 28px;
+}
+button:nth-child(12) {
+    background-color: palevioletred;
+    font-size: 28px;
+}
+button:nth-child(16) {
+    background-color: rgb(208, 255, 0);
+    font-size: 28px;
+}
+button:nth-child(20) {
+    background-color:orangered;
+    font-size: 28px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-display: swap;
+    color: crimson;
+}
+.number:hover{
+font-size: 30px;
+color: darkolivegreen;
+background-color: black;
+}
+.operator:hover {
+    font-size: 40px;
+    color: rgb(160, 73, 29);
+    background-color: rgb(111, 36, 64);
+}
+    
+
+
